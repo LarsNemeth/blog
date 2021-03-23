@@ -1,0 +1,12 @@
+body {
+  margin: 50px;
+}
+
+.potatoe-color {
+  background-color: rgba(60, 134, 153, 1.5);
+}
+
+.box {
+  width: auto;
+  hight: auto;
+}
