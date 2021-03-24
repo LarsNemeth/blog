@@ -1,12 +1,67 @@
 body {
   margin: 50px;
-}
-
-.potatoe-color {
-  background-color: rgba(60, 134, 153, 1.5);
+  background-color: rgba(255, 0, 0, 0.6);
 }
 
 .box {
   width: auto;
-  hight: auto;
+  height: auto;
+  padding-bottom: 30px;
+}
+
+.color_box1 {
+  background-color: rgba(60, 134, 153, 1.5);
+}
+
+.color_box2 {
+  background-color: rgba(104, 123, 135, 2.5);
+}
+
+.color_box3 {
+  background-color: rgba(55, 77, 92, 2.5);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+figcaption {
+  width: auto;
+  text-align: center;
+}
+
+.subline-pic {
+  text-align: center;
+}
+
+a:hover {
+  color: gold;
+}
+
+a:focus {
+  color: rgba(55, 77, 92, 2.5);
+}
+
+a:active {
+  color: white;
+}
+
+.center-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center-txt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: white;
 }
